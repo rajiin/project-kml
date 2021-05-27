@@ -1,0 +1,60 @@
+<Placemark>
+    <name>Sailserver track-1</name>
+    <snippet/>
+
+    <description><![CDATA[
+        <table>
+            <tr><td>Longitude: 9.813902 </td></tr>
+            <tr><td>Latitude: 54.895522 </td></tr>
+            <tr><td>Speed: 0.1 mph </td></tr>
+            <tr><td>Heading: 238.5 </td></tr>
+            <tr><td>Time: 2020-11-04T03:11:04Z </td></tr>
+        </table>]]>
+    </description>
+
+    <LookAt>
+        <longitude>9.813902</longitude>
+        <latitude>54.895522</latitude>
+        <tilt>66</tilt>
+    </LookAt>
+
+    <TimeStamp>
+        <when>2020-11-04T03:11:04Z</when>
+    </TimeStamp>
+
+    <styleUrl>#track</styleUrl>
+
+    <Point>              
+        <coordinates>9.813902,54.895522</coordinates>
+    </Point>
+</Placemark>
+
+<Placemark>
+    <name>Sailserver track-2</name>
+    <snippet/>
+    <description><![CDATA[
+        <table>
+            <tr><td>Longitude: 9.814396 </td></tr>
+            <tr><td>Latitude: 54.895756 </td></tr>
+            <tr><td>Speed: 1.5 mph </td></tr>
+            <tr><td>Heading: 50.6 </td></tr>
+            <tr><td>Time: 2020-11-04T03:12:04Z </td></tr>
+        </table>]]>
+    </description>
+    
+    <LookAt>
+        <longitude>9.814396</longitude>
+        <latitude>54.895756</latitude>
+        <tilt>66</tilt>
+    </LookAt>
+    
+    <TimeStamp>
+        <when>2020-11-04T03:12:04Z</when>
+    </TimeStamp>
+    
+    <styleUrl>#track</styleUrl>
+    
+    <Point>
+        <coordinates>9.814396,54.895756</coordinates>
+    </Point>
+</Placemark>

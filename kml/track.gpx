@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator='Navionics Boating App'
+        xsi:schemaLocation='http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd'
+        xmlns='http://www.topografix.com/GPX/1/1'
+        xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+        >  <metadata>
+    <link href='sailserver.com'>
+      <text>Sailserver</text>
+    </link>
+    <time></time>
+      </metadata>
+
+      <trk><name>Sailserver track</name>
+      <type>sailing</type>
+      <trkseg>
+<trkpt lat='54.8955406' lon='9.8139536'><time>2020-11-04T03:10:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8955225' lon='9.8139023'><time>2020-11-04T03:11:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8957556' lon='9.8143958'><time>2020-11-04T03:12:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8963348' lon='9.8167498'><time>2020-11-04T03:13:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8965049' lon='9.8171993'><time>2020-11-04T03:14:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8965203' lon='9.8171417'><time>2020-11-04T03:15:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8964676' lon='9.8168857'><time>2020-11-04T03:16:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8962030' lon='9.8166778'><time>2020-11-04T03:17:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8959347' lon='9.8167331'><time>2020-11-04T03:18:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8961708' lon='9.8163401'><time>2020-11-04T03:19:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8958036' lon='9.8163725'><time>2020-11-04T03:20:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8957517' lon='9.8163876'><time>2020-11-04T03:21:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8958255' lon='9.8165902'><time>2020-11-04T03:22:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8958818' lon='9.8159586'><time>2020-11-04T03:23:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8956663' lon='9.8139250'><time>2020-11-04T03:24:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8952779' lon='9.8143228'><time>2020-11-04T03:25:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8952187' lon='9.8135826'><time>2020-11-04T03:26:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8954137' lon='9.8140211'><time>2020-11-04T03:27:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8954596' lon='9.8137036'><time>2020-11-04T03:28:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8954280' lon='9.8138752'><time>2020-11-04T03:29:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+<trkpt lat='54.8955522' lon='9.8137312'><time>2020-11-04T03:30:04Z</time><desc>COG:123,SOG:1.1</desc></trkpt>
+
+</trkseg></trk></gpx>

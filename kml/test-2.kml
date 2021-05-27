@@ -1,0 +1,16 @@
+<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2' xmlns:kml='http://www.opengis.net/kml/2.2' xmlns:atom='http://www.w3.org/2005/Atom'>
+<Document>
+<name>Sailserver Track</name>
+<Folder>
+<Placemark>
+<name>Track Point 1</name>
+<description>
+<![CDATA[<h1>Hello World!</h1>]]>
+</description>
+<Point>
+<coordinates>9.811324,54.92856</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
