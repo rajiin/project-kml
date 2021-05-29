@@ -7,7 +7,7 @@
 			<name>Track</name>
 			<styleUrl>#line-59ACFF-6000-nodesc</styleUrl>
 			<LineString>
-          	<tessellate>2</tessellate>
+          	<tessellate>1</tessellate>
 				<coordinates>
 					9.813954,54.895541,0
     	        	9.813902,54.895522,0
@@ -39,7 +39,7 @@
 	    <Placemark>
 	  		<name>Point 2</name>
 			<description><![CDATA[Longitude: 9.813902  <br> Latitude: 54.895522  <br> Speed: 0.1 mph  <br> Heading: 238.5  <br> Time: 2020-11-04T03:11:04Z]]></description>
-			
+	
         	<Point>
           		<coordinates>
             		9.813902,54.895522,0
