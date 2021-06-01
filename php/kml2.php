@@ -4,12 +4,27 @@
 // google earth supports more tags
 // pictures are copied to the users drive account
 
-function kml($data)
+function kml($tracks)
 {
+$data=$tracks[0]['points'];
+
 printf("<?xml version='1.0' encoding='UTF-8'?>");
 printf("<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2' xmlns:atom='http://www.w3.org/2005/Atom'>\n");
 
     printf("<Document>\n");
+
+    printf("<Style id='icon-1739-0288D1-normal'>");
+        printf("<IconStyle>");
+        printf("<color>ffd18802</color>");
+        printf("<scale>1</scale>");
+        printf("<Icon>");
+        printf("<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>");
+        printf("</Icon>");
+        printf("</IconStyle>");
+        printf("<LabelStyle>");
+        printf("<scale>0</scale>");
+        printf("</LabelStyle>");
+    printf("</Style>");
 
 // create map layer for path
     printf("<Folder>\n");
@@ -27,7 +42,9 @@ printf("<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.
     printf("<coordinates>\n");
 
 // all points from the track goes here to draw the path
-    printf("9.813954,54.895541,0 9.813902,54.895522,0 9.814396,54.895756,0 9.81675,54.896335,0 9.817199,54.896505,0");
+foreach($data as $i => $t) {
+              printf("%s,%s,0\n",$t['lon'],$t['lat']);
+}
 
     printf("</coordinates>\n");
     printf("</LineString>\n");
@@ -38,18 +55,32 @@ printf("<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.
 // create layer for all track points
     printf("<Folder>\n");
  // layer name for all track points 
-    printf("<name>Points</name>");
-        printf("<Placemark>\n");
-// name for the individual track points
-        printf("<name>Point 1</name>\n");
-            printf("<description>");
-                printf("<![CDATA[<b>Hello</b> World!]]>");
-            printf("</description>\n");
-            printf("<Point>\n");
-                printf("<coordinates>9.811324,54.92856</coordinates>\n");
-            printf("</Point>\n");
-        printf("</Placemark>\n");
- // above repeats for all track points   
+    printf("<name>Points</name>\n");
+
+foreach($data as $i => $t) {
+    printf("<Placemark>\n");
+    // name for the individual track points
+        printf("<name>");
+            printf("%s",$t['utc']);
+        printf("</name>");
+
+        printf("<description>");
+            printf("<![CDATA[");
+            foreach($t as $j => $k) {
+                printf("<b>%s:</b> %s<br>",$j,$k);
+            }
+
+            printf("]]>");
+        printf("</description>\n");
+            
+        printf("<Point>\n");
+            printf("<coordinates>");
+            printf("%s,%s,0",$t['lon'],$t['lat']);
+            printf("</coordinates>\n");
+        printf("</Point>\n");
+    printf("</Placemark>\n");
+}
+// above repeats for all track points   
     
         printf("</Folder>\n");
     printf("</Document>\n");

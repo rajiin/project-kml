@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>QQ2</name>
+    <description/>
+    <Style id="icon-1739-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-3325-nodesc-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.325</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0F9D58-3325-nodesc-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>4.9875</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-3325-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-3325-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-3325-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Sailserver Track</name>
+      <Placemark>
+        <name>Track</name>
+        <styleUrl>#line-0F9D58-3325-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            4.949176,48.641011,0
+            4.949166,48.641006,0
+            4.949171,48.641001,0
+            4.94869,48.64114,0
+            4.946795,48.641698,0
+            4.944912,48.642041,0
+            4.942998,48.642276,0
+            4.941134,48.642392,0
+            4.939142,48.642389,0
+            4.937172,48.642379,0
+            4.935155,48.642392,0
+            4.933229,48.642385,0
+            4.931324,48.64233,0
+            4.929513,48.64183,0
+            4.928065,48.640951,0
+            4.927408,48.640153,0
+            4.9272,48.639759,0
+            4.927112,48.639526,0
+            4.927045,48.639402,0
+            4.926862,48.638845,0
+            4.926847,48.638832,0
+            4.926841,48.638823,0
+            4.926848,48.638834,0
+            4.926851,48.638838,0
+            4.926854,48.63883,0
+            4.926876,48.638827,0
+            4.926889,48.638833,0
+            4.926641,48.638268,0
+            4.925169,48.637894,0
+            4.923321,48.638154,0
+            4.921359,48.638421,0
+            4.919362,48.638693,0
+            4.917389,48.638986,0
+            4.915446,48.639272,0
+            4.913536,48.639555,0
+            4.911679,48.639825,0
+            4.909815,48.640105,0
+            4.908106,48.640358,0
+            4.906368,48.640605,0
+            4.90497,48.640806,0
+            4.904236,48.640896,0
+            4.904157,48.640921,0
+            4.904158,48.640918,0
+            4.904169,48.640928,0
+            4.90417,48.64093,0
+            4.904184,48.64092,0
+            4.904179,48.640917,0
+            4.904184,48.640917,0
+            4.904201,48.640913,0
+            4.902905,48.641113,0
+            4.900945,48.641423,0
+            4.89897,48.641692,0
+            4.897006,48.641984,0
+            4.895056,48.642264,0
+            4.893086,48.642536,0
+            4.891056,48.642834,0
+            4.888937,48.643137,0
+            4.886839,48.64344,0
+            4.884827,48.643739,0
+            4.882844,48.644044,0
+            4.88086,48.644323,0
+            4.878811,48.6446,0
+            4.877463,48.644793,0
+            4.875656,48.64506,0
+            4.874001,48.645288,0
+            4.873223,48.645412,0
+            4.873225,48.645414,0
+            4.873228,48.645417,0
+            4.873233,48.645417,0
+            4.873249,48.645415,0
+            4.873257,48.645411,0
+            4.873256,48.645412,0
+            4.873136,48.645429,0
+            4.871204,48.645717,0
+            4.869004,48.646015,0
+            4.866794,48.646325,0
+            4.864591,48.646645,0
+            4.862487,48.646974,0
+            4.860418,48.647271,0
+            4.85833,48.647574,0
+            4.856249,48.647863,0
+            4.854423,48.648148,0
+            4.853584,48.648262,0
+            4.853368,48.648294,0
+            4.853363,48.648295,0
+            4.853366,48.648302,0
+            4.853375,48.648304,0
+            4.853371,48.648306,0
+            4.853358,48.648306,0
+            4.853363,48.648302,0
+            4.852128,48.648503,0
+            4.850142,48.648762,0
+            4.848149,48.64905,0
+            4.846187,48.649335,0
+            4.844269,48.649621,0
+            4.842325,48.649888,0
+            4.840357,48.650186,0
+            4.838453,48.650448,0
+            4.836557,48.65073,0
+            4.834663,48.650993,0
+            4.83279,48.65126,0
+            4.83095,48.651528,0
+            4.829243,48.651781,0
+            4.827385,48.652065,0
+            4.825494,48.652324,0
+            4.823629,48.652594,0
+            4.822059,48.652822,0
+            4.821314,48.652925,0
+            4.821285,48.65293,0
+            4.821281,48.652926,0
+            4.821285,48.652933,0
+            4.82129,48.652932,0
+            4.82129,48.652934,0
+            4.821291,48.65294,0
+            4.82109,48.65297,0
+            4.81917,48.653236,0
+            4.81713,48.653527,0
+            4.815112,48.653832,0
+            4.81311,48.654111,0
+            4.811156,48.654398,0
+            4.809226,48.654666,0
+            4.807351,48.654952,0
+            4.806135,48.655124,0
+            4.805905,48.655157,0
+            4.805646,48.655192,0
+            4.80513,48.655269,0
+            4.804759,48.65533,0
+            4.804325,48.655401,0
+            4.803632,48.655476,0
+            4.803057,48.655575,0
+            4.803036,48.655566,0
+            4.803027,48.655567,0
+            4.803028,48.655566,0
+            4.803018,48.655566,0
+            4.803018,48.655561,0
+            4.803013,48.655558,0
+            4.803016,48.655555,0
+            4.802876,48.65558,0
+            4.801199,48.65582,0
+            4.799101,48.656129,0
+            4.796977,48.656437,0
+            4.794923,48.656734,0
+            4.79288,48.657036,0
+            4.790809,48.657336,0
+            4.788803,48.657611,0
+            4.786801,48.657917,0
+            4.784735,48.658213,0
+            4.782609,48.658515,0
+            4.780516,48.65881,0
+            4.778419,48.659115,0
+            4.776318,48.659408,0
+            4.774229,48.659691,0
+            4.772186,48.659999,0
+            4.770111,48.660289,0
+            4.768014,48.660593,0
+            4.765879,48.660882,0
+            4.763778,48.661176,0
+            4.761632,48.661479,0
+            4.759483,48.661789,0
+            4.758163,48.661994,0
+            4.757812,48.662054,0
+            4.757832,48.662043,0
+            4.757847,48.662042,0
+            4.757851,48.662041,0
+            4.757845,48.662037,0
+            4.757859,48.66203,0
+            4.757854,48.662032,0
+            4.757851,48.662033,0
+            4.757269,48.662112,0
+            4.755181,48.662426,0
+            4.753101,48.662723,0
+            4.751134,48.662995,0
+            4.749127,48.663286,0
+            4.7471,48.663575,0
+            4.745078,48.663863,0
+            4.743078,48.664137,0
+            4.741129,48.664435,0
+            4.739174,48.664725,0
+            4.737275,48.665144,0
+            4.735461,48.665716,0
+            4.73421,48.666126,0
+            4.733529,48.666298,0
+            4.733718,48.666207,0
+            4.733737,48.666201,0
+            4.733725,48.666199,0
+            4.733722,48.666202,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Points</name>
+      <Placemark>
+        <name>2021-05-25 08:08:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:08:58<br>lat: 48.6410111<br>lon: 4.9491761<br>aws: 3.62<br>awa: -26.66<br>wda: 3.11<br>stw: 0.00<br>watmp: 13.22<br>crs: 294.27<br>rudder: 10.22<br>roll: -0.46<br>pitch: 0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.949176,48.641011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:09:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:09:58<br>lat: 48.6410057<br>lon: 4.9491663<br>aws: 5.19<br>awa: -33.08<br>wda: 2.27<br>stw: 0.00<br>watmp: 13.29<br>crs: 293.94<br>rudder: 10.22<br>roll: -0.44<br>pitch: -0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.949166,48.641006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:10:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:10:58<br>lat: 48.6410012<br>lon: 4.9491713<br>aws: 3.40<br>awa: -3.14<br>wda: 2.09<br>stw: 0.00<br>watmp: 13.29<br>crs: 290.55<br>rudder: 10.22<br>roll: -0.50<br>pitch: -0.15<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.949171,48.641001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:11:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:11:58<br>lat: 48.6411401<br>lon: 4.9486902<br>aws: 3.71<br>awa: -19.83<br>wda: 1.76<br>stw: 4.28<br>watmp: 13.29<br>crs: 292.59<br>rudder: -2.62<br>roll: -1.35<br>pitch: 0.31<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.94869,48.64114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:12:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:12:58<br>lat: 48.6416978<br>lon: 4.9467953<br>aws: 5.44<br>awa: -37.76<br>wda: 1.74<br>stw: 4.37<br>watmp: 13.35<br>crs: 284.40<br>rudder: -0.22<br>roll: -0.66<br>pitch: 0.05<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.946795,48.641698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:13:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:13:58<br>lat: 48.6420410<br>lon: 4.9449115<br>aws: 10.81<br>awa: -36.50<br>wda: 1.52<br>stw: 4.63<br>watmp: 13.41<br>crs: 277.46<br>rudder: -0.65<br>roll: -0.23<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.944912,48.642041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:14:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:14:58<br>lat: 48.6422756<br>lon: 4.9429985<br>aws: 14.64<br>awa: -20.03<br>wda: 1.65<br>stw: 4.80<br>watmp: 13.45<br>crs: 273.10<br>rudder: -1.75<br>roll: -1.42<br>pitch: 0.08<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.942998,48.642276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:15:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:15:58<br>lat: 48.6423924<br>lon: 4.9411342<br>aws: 7.54<br>awa: -24.87<br>wda: 1.54<br>stw: 4.12<br>watmp: 13.48<br>crs: 266.58<br>rudder: -1.31<br>roll: -0.96<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.941134,48.642392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:16:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:16:58<br>lat: 48.6423890<br>lon: 4.9391416<br>aws: 9.45<br>awa: -1.55<br>wda: 1.52<br>stw: 4.90<br>watmp: 13.48<br>crs: 265.80<br>rudder: -0.22<br>roll: -0.96<br>pitch: 0.18<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.939142,48.642389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:17:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:17:58<br>lat: 48.6423789<br>lon: 4.9371715<br>aws: 4.12<br>awa: -21.23<br>wda: 1.63<br>stw: 5.15<br>watmp: 13.48<br>crs: 265.47<br>rudder: 0.41<br>roll: -0.94<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.937172,48.642379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:18:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:18:58<br>lat: 48.6423923<br>lon: 4.9351548<br>aws: 3.81<br>awa: -24.50<br>wda: 1.63<br>stw: 5.33<br>watmp: 13.55<br>crs: 264.76<br>rudder: 0.81<br>roll: -0.72<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.935155,48.642392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:19:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:19:58<br>lat: 48.6423852<br>lon: 4.9332290<br>aws: 2.33<br>awa: -8.41<br>wda: 1.75<br>stw: 5.33<br>watmp: 13.67<br>crs: 262.84<br>rudder: -0.22<br>roll: -1.07<br>pitch: 0.15<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.933229,48.642385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:20:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:20:58<br>lat: 48.6423301<br>lon: 4.9313242<br>aws: 5.68<br>awa: -13.22<br>wda: 1.44<br>stw: 5.33<br>watmp: 13.73<br>crs: 254.04<br>rudder: -1.31<br>roll: -0.83<br>pitch: 0.20<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.931324,48.64233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:21:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:21:58<br>lat: 48.6418298<br>lon: 4.9295132<br>aws: 6.67<br>awa: 35.27<br>wda: 1.78<br>stw: 5.33<br>watmp: 13.73<br>crs: 234.48<br>rudder: 1.84<br>roll: -1.01<br>pitch: 0.00<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.929513,48.64183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:22:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:22:58<br>lat: 48.6409507<br>lon: 4.9280654<br>aws: 7.31<br>awa: 29.98<br>wda: 1.57<br>stw: 5.33<br>watmp: 13.80<br>crs: 212.87<br>rudder: 0.41<br>roll: -0.93<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.928065,48.640951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:23:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:23:58<br>lat: 48.6401530<br>lon: 4.9274077<br>aws: 6.61<br>awa: 15.62<br>wda: 1.58<br>stw: 1.36<br>watmp: 13.86<br>crs: 199.74<br>rudder: 2.66<br>roll: -1.08<br>pitch: -0.04<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.927408,48.640153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:24:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:24:58<br>lat: 48.6397594<br>lon: 4.9271998<br>aws: 8.71<br>awa: 45.29<br>wda: 1.64<br>stw: 0.00<br>watmp: 13.90<br>crs: 195.22<br>rudder: 48.07<br>roll: -1.13<br>pitch: 0.09<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.9272,48.639759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:25:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:25:58<br>lat: 48.6395263<br>lon: 4.9271118<br>aws: 11.53<br>awa: 45.79<br>wda: 1.71<br>stw: 0.00<br>watmp: 13.92<br>crs: 210.61<br>rudder: 48.68<br>roll: -1.04<br>pitch: 0.09<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.927112,48.639526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:26:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:26:58<br>lat: 48.6394022<br>lon: 4.9270450<br>aws: 5.46<br>awa: 49.84<br>wda: 2.03<br>stw: 1.17<br>watmp: 13.94<br>crs: 196.87<br>rudder: -23.81<br>roll: -0.42<br>pitch: 0.33<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.927045,48.639402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:27:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:27:58<br>lat: 48.6388454<br>lon: 4.9268623<br>aws: 1.63<br>awa: -139.65<br>wda: 5.29<br>stw: 0.00<br>watmp: 13.95<br>crs: 186.93<br>rudder: 2.66<br>roll: -0.81<br>pitch: -0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926862,48.638845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:28:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:28:58<br>lat: 48.6388325<br>lon: 4.9268471<br>aws: 1.11<br>awa: -129.83<br>wda: 5.34<br>stw: 0.00<br>watmp: 13.98<br>crs: 188.23<br>rudder: 0.20<br>roll: -0.96<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926847,48.638832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:29:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:29:58<br>lat: 48.6388227<br>lon: 4.9268407<br>aws: 4.06<br>awa: 73.57<br>wda: 5.26<br>stw: 0.00<br>watmp: 14.05<br>crs: 183.75<br>rudder: 0.20<br>roll: -0.70<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926841,48.638823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:30:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:30:58<br>lat: 48.6388344<br>lon: 4.9268485<br>aws: 5.29<br>awa: 41.75<br>wda: 4.71<br>stw: 0.00<br>watmp: 14.07<br>crs: 184.99<br>rudder: 0.41<br>roll: -0.53<br>pitch: 0.02<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926848,48.638834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:31:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:31:58<br>lat: 48.6388384<br>lon: 4.9268514<br>aws: 3.60<br>awa: 47.19<br>wda: 3.79<br>stw: 0.00<br>watmp: 16.28<br>crs: 187.79<br>rudder: 0.20<br>roll: -0.44<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926851,48.638838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:32:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:32:58<br>lat: 48.6388305<br>lon: 4.9268543<br>aws: 2.39<br>awa: -3.52<br>wda: 2.86<br>stw: 0.00<br>watmp: 16.28<br>crs: 193.78<br>rudder: 0.20<br>roll: -0.23<br>pitch: 0.04<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926854,48.63883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:33:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:33:58<br>lat: 48.6388269<br>lon: 4.9268756<br>aws: 2.18<br>awa: 89.66<br>wda: 2.32<br>stw: 0.00<br>watmp: 16.28<br>crs: 194.16<br>rudder: 0.20<br>roll: -0.54<br>pitch: -0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926876,48.638827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:34:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:34:58<br>lat: 48.6388326<br>lon: 4.9268890<br>aws: 4.16<br>awa: -20.51<br>wda: 2.23<br>stw: 0.00<br>watmp: 16.28<br>crs: 195.08<br>rudder: 0.41<br>roll: -0.59<br>pitch: -0.01<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926889,48.638833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:35:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:35:58<br>lat: 48.6382675<br>lon: 4.9266411<br>aws: 10.28<br>awa: 19.86<br>wda: 1.95<br>stw: 4.74<br>watmp: 16.28<br>crs: 193.80<br>rudder: 3.07<br>roll: -0.75<br>pitch: 0.15<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.926641,48.638268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:36:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:36:58<br>lat: 48.6378945<br>lon: 4.9251692<br>aws: 13.72<br>awa: -13.85<br>wda: 1.53<br>stw: 4.98<br>watmp: 16.28<br>crs: 276.88<br>rudder: 0.20<br>roll: -1.06<br>pitch: 0.16<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.925169,48.637894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:37:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:37:58<br>lat: 48.6381542<br>lon: 4.9233209<br>aws: 6.40<br>awa: -49.54<br>wda: 1.69<br>stw: 4.45<br>watmp: 16.28<br>crs: 277.51<br>rudder: -0.87<br>roll: -0.30<br>pitch: 0.05<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.923321,48.638154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:38:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:38:58<br>lat: 48.6384208<br>lon: 4.9213589<br>aws: 3.81<br>awa: 9.43<br>wda: 1.67<br>stw: 4.45<br>watmp: 16.28<br>crs: 278.58<br>rudder: -0.44<br>roll: -0.66<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.921359,48.638421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:39:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:39:58<br>lat: 48.6386934<br>lon: 4.9193618<br>aws: 6.20<br>awa: 17.30<br>wda: 1.65<br>stw: 5.15<br>watmp: 16.09<br>crs: 281.54<br>rudder: 0.41<br>roll: -1.03<br>pitch: 0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.919362,48.638693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:40:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:40:58<br>lat: 48.6389856<br>lon: 4.9173890<br>aws: 11.90<br>awa: -13.24<br>wda: 1.39<br>stw: 4.51<br>watmp: 16.28<br>crs: 277.01<br>rudder: 0.20<br>roll: -1.01<br>pitch: 0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.917389,48.638986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:41:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:41:58<br>lat: 48.6392718<br>lon: 4.9154460<br>aws: 6.73<br>awa: -36.07<br>wda: 1.48<br>stw: 5.15<br>watmp: 16.28<br>crs: 277.11<br>rudder: -0.87<br>roll: -1.13<br>pitch: 0.18<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.915446,48.639272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:42:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:42:58<br>lat: 48.6395547<br>lon: 4.9135356<br>aws: 7.46<br>awa: -62.45<br>wda: 1.76<br>stw: 5.15<br>watmp: 16.28<br>crs: 277.70<br>rudder: -0.22<br>roll: -0.96<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.913536,48.639555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:43:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:43:58<br>lat: 48.6398250<br>lon: 4.9116787<br>aws: 7.23<br>awa: -61.69<br>wda: 1.70<br>stw: 5.15<br>watmp: 16.09<br>crs: 278.58<br>rudder: -2.40<br>roll: -1.25<br>pitch: 0.22<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.911679,48.639825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:44:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:44:58<br>lat: 48.6401047<br>lon: 4.9098154<br>aws: 7.85<br>awa: -39.58<br>wda: 1.71<br>stw: 5.15<br>watmp: 16.28<br>crs: 276.61<br>rudder: 0.61<br>roll: -0.82<br>pitch: 0.15<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.909815,48.640105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:45:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:45:58<br>lat: 48.6403576<br>lon: 4.9081056<br>aws: 5.48<br>awa: -54.60<br>wda: 1.67<br>stw: 3.44<br>watmp: 16.28<br>crs: 277.44<br>rudder: 0.00<br>roll: -1.07<br>pitch: 0.04<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.908106,48.640358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:46:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:46:58<br>lat: 48.6406054<br>lon: 4.9063675<br>aws: 8.32<br>awa: -46.35<br>wda: 1.49<br>stw: 5.15<br>watmp: 16.09<br>crs: 276.42<br>rudder: 2.25<br>roll: -0.69<br>pitch: 0.19<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.906368,48.640605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:47:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:47:58<br>lat: 48.6408055<br>lon: 4.9049698<br>aws: 5.11<br>awa: -44.27<br>wda: 1.87<br>stw: 1.71<br>watmp: 16.09<br>crs: 278.20<br>rudder: -3.50<br>roll: -0.38<br>pitch: 0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.90497,48.640806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:48:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:48:58<br>lat: 48.6408960<br>lon: 4.9042364<br>aws: 6.98<br>awa: -48.65<br>wda: 5.42<br>stw: 0.35<br>watmp: 16.09<br>crs: 274.28<br>rudder: -10.04<br>roll: -0.85<br>pitch: -0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.904236,48.640896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:49:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:49:58<br>lat: 48.6409213<br>lon: 4.9041571<br>aws: 7.48<br>awa: -68.41<br>wda: 5.42<br>stw: 0.86<br>watmp: 16.09<br>crs: 278.25<br>rudder: -43.47<br>roll: -0.49<br>pitch: 0.03<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.904157,48.640921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:50:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:50:58<br>lat: 48.6409180<br>lon: 4.9041584<br>aws: 8.42<br>awa: -59.78<br>wda: 5.41<br>stw: 0.86<br>watmp: 16.09<br>crs: 280.70<br>rudder: -43.47<br>roll: -0.49<br>pitch: 0.02<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.904158,48.640918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:51:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:51:58<br>lat: 48.6409283<br>lon: 4.9041689<br>aws: 3.73<br>awa: -58.44<br>wda: 5.06<br>stw: 0.86<br>watmp: 16.09<br>crs: 278.34<br>rudder: -43.47<br>roll: -0.58<br>pitch: 0.04<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.904169,48.640928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:52:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:52:58<br>lat: 48.6409295<br>lon: 4.9041702<br>aws: 7.33<br>awa: -76.71<br>wda: 4.18<br>stw: 0.86<br>watmp: 16.09<br>crs: 279.39<br>rudder: -43.47<br>roll: -0.31<br>pitch: -0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.90417,48.64093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:53:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:53:58<br>lat: 48.6409196<br>lon: 4.9041835<br>aws: 4.65<br>awa: -70.36<br>wda: 3.12<br>stw: 0.86<br>watmp: 16.09<br>crs: 277.86<br>rudder: -43.47<br>roll: -0.11<br>pitch: 0.10<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.904184,48.64092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:54:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:54:58<br>lat: 48.6409169<br>lon: 4.9041794<br>aws: 1.94<br>awa: 16.11<br>wda: 2.44<br>stw: 0.86<br>watmp: 16.09<br>crs: 277.55<br>rudder: -43.47<br>roll: -0.01<br>pitch: 0.02<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.904179,48.640917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:55:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:55:58<br>lat: 48.6409168<br>lon: 4.9041839<br>aws: 1.92<br>awa: -123.40<br>wda: 2.24<br>stw: 0.86<br>watmp: 16.28<br>crs: 276.07<br>rudder: -43.47<br>roll: -0.67<br>pitch: -0.10<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.904184,48.640917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:56:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:56:58<br>lat: 48.6409127<br>lon: 4.9042012<br>aws: 3.27<br>awa: -0.89<br>wda: 2.23<br>stw: 0.86<br>watmp: 16.28<br>crs: 278.15<br>rudder: -4.80<br>roll: -1.42<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.904201,48.640913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:57:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:57:58<br>lat: 48.6411130<br>lon: 4.9029046<br>aws: 2.31<br>awa: -35.05<br>wda: 2.12<br>stw: 4.98<br>watmp: 16.28<br>crs: 277.75<br>rudder: -0.87<br>roll: -0.69<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.902905,48.641113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:58:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:58:58<br>lat: 48.6414228<br>lon: 4.9009450<br>aws: 10.01<br>awa: -47.40<br>wda: 1.71<br>stw: 5.15<br>watmp: 16.09<br>crs: 274.39<br>rudder: -0.87<br>roll: -0.19<br>pitch: 0.12<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.900945,48.641423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 08:59:58</name>
+        <description><![CDATA[utc: 2021-05-25 08:59:58<br>lat: 48.6416922<br>lon: 4.8989704<br>aws: 10.09<br>awa: -3.05<br>wda: 1.91<br>stw: 5.15<br>watmp: 16.09<br>crs: 278.24<br>rudder: -1.09<br>roll: -1.59<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.89897,48.641692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:00:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:00:58<br>lat: 48.6419843<br>lon: 4.8970057<br>aws: 7.19<br>awa: -21.09<br>wda: 1.91<br>stw: 5.15<br>watmp: 16.09<br>crs: 277.24<br>rudder: -0.22<br>roll: -1.42<br>pitch: 0.20<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.897006,48.641984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:01:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:01:58<br>lat: 48.6422641<br>lon: 4.8950560<br>aws: 8.03<br>awa: -16.51<br>wda: 1.91<br>stw: 5.15<br>watmp: 16.09<br>crs: 276.74<br>rudder: 0.41<br>roll: -1.06<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.895056,48.642264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:02:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:02:58<br>lat: 48.6425355<br>lon: 4.8930863<br>aws: 10.28<br>awa: -15.86<br>wda: 2.00<br>stw: 5.33<br>watmp: 16.09<br>crs: 276.06<br>rudder: 2.25<br>roll: -0.98<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.893086,48.642536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:03:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:03:58<br>lat: 48.6428340<br>lon: 4.8910559<br>aws: 5.97<br>awa: -64.71<br>wda: 1.99<br>stw: 5.50<br>watmp: 16.09<br>crs: 276.67<br>rudder: -0.87<br>roll: -1.04<br>pitch: 0.20<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.891056,48.642834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:04:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:04:58<br>lat: 48.6431367<br>lon: 4.8889372<br>aws: 5.70<br>awa: -35.87<br>wda: 1.86<br>stw: 5.79<br>watmp: 16.09<br>crs: 277.29<br>rudder: -0.44<br>roll: -0.93<br>pitch: 0.12<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.888937,48.643137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:05:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:05:58<br>lat: 48.6434401<br>lon: 4.8868394<br>aws: 4.45<br>awa: -29.44<br>wda: 1.95<br>stw: 5.81<br>watmp: 16.09<br>crs: 277.63<br>rudder: -1.97<br>roll: -1.16<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.886839,48.64344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:06:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:06:58<br>lat: 48.6437392<br>lon: 4.8848274<br>aws: 2.90<br>awa: -17.90<br>wda: 1.88<br>stw: 5.15<br>watmp: 16.09<br>crs: 277.70<br>rudder: 0.41<br>roll: -1.16<br>pitch: 0.03<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.884827,48.643739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:07:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:07:58<br>lat: 48.6440444<br>lon: 4.8828444<br>aws: 12.15<br>awa: -24.22<br>wda: 1.63<br>stw: 4.96<br>watmp: 16.28<br>crs: 276.82<br>rudder: 1.43<br>roll: -0.95<br>pitch: 0.23<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.882844,48.644044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:08:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:08:58<br>lat: 48.6443234<br>lon: 4.8808601<br>aws: 4.02<br>awa: -66.42<br>wda: 1.85<br>stw: 4.80<br>watmp: 16.28<br>crs: 275.86<br>rudder: 0.41<br>roll: -1.00<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.88086,48.644323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:09:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:09:58<br>lat: 48.6446001<br>lon: 4.8788109<br>aws: 4.14<br>awa: -113.18<br>wda: 1.74<br>stw: 4.80<br>watmp: 16.28<br>crs: 277.08<br>rudder: -1.75<br>roll: -1.28<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.878811,48.6446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:10:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:10:58<br>lat: 48.6447929<br>lon: 4.8774629<br>aws: 4.94<br>awa: -52.89<br>wda: 1.88<br>stw: 2.64<br>watmp: 16.28<br>crs: 277.73<br>rudder: -1.31<br>roll: -1.28<br>pitch: 0.22<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.877463,48.644793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:11:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:11:58<br>lat: 48.6450596<br>lon: 4.8756557<br>aws: 13.78<br>awa: -34.27<br>wda: 1.90<br>stw: 5.42<br>watmp: 16.28<br>crs: 276.62<br>rudder: -1.31<br>roll: -1.57<br>pitch: 0.19<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.875656,48.64506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:12:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:12:58<br>lat: 48.6452878<br>lon: 4.8740014<br>aws: 12.63<br>awa: -29.91<br>wda: 2.02<br>stw: 1.77<br>watmp: 16.28<br>crs: 277.20<br>rudder: -6.11<br>roll: -1.48<br>pitch: -0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.874001,48.645288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:13:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:13:58<br>lat: 48.6454120<br>lon: 4.8732228<br>aws: 6.84<br>awa: -30.11<br>wda: 5.47<br>stw: 0.04<br>watmp: 16.28<br>crs: 273.13<br>rudder: 1.23<br>roll: -1.05<br>pitch: -0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.873223,48.645412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:14:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:14:58<br>lat: 48.6454137<br>lon: 4.8732248<br>aws: 3.85<br>awa: -22.53<br>wda: 5.48<br>stw: 0.00<br>watmp: 16.28<br>crs: 275.39<br>rudder: -1.09<br>roll: -0.78<br>pitch: 0.01<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.873225,48.645414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:15:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:15:58<br>lat: 48.6454166<br>lon: 4.8732276<br>aws: 5.29<br>awa: -43.66<br>wda: 5.44<br>stw: 0.00<br>watmp: 14.54<br>crs: 273.95<br>rudder: -1.09<br>roll: -1.01<br>pitch: 0.01<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.873228,48.645417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:16:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:16:58<br>lat: 48.6454167<br>lon: 4.8732326<br>aws: 5.27<br>awa: -32.33<br>wda: 4.76<br>stw: 0.00<br>watmp: 14.54<br>crs: 275.97<br>rudder: -1.09<br>roll: -1.17<br>pitch: 0.02<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.873233,48.645417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:17:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:17:58<br>lat: 48.6454150<br>lon: 4.8732487<br>aws: 6.40<br>awa: -35.57<br>wda: 3.66<br>stw: 0.00<br>watmp: 14.54<br>crs: 274.84<br>rudder: -1.09<br>roll: -1.73<br>pitch: -0.26<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.873249,48.645415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:18:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:18:58<br>lat: 48.6454110<br>lon: 4.8732567<br>aws: 2.92<br>awa: -174.66<br>wda: 2.71<br>stw: 0.00<br>watmp: 14.54<br>crs: 269.61<br>rudder: -1.09<br>roll: -1.86<br>pitch: -0.10<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.873257,48.645411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:19:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:19:58<br>lat: 48.6454117<br>lon: 4.8732558<br>aws: 0.00<br>awa: -138.84<br>wda: 2.31<br>stw: 0.00<br>watmp: 14.60<br>crs: 271.03<br>rudder: -1.09<br>roll: -1.74<br>pitch: -0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.873256,48.645412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:20:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:20:58<br>lat: 48.6454288<br>lon: 4.8731365<br>aws: 5.13<br>awa: -11.89<br>wda: 2.28<br>stw: 1.83<br>watmp: 14.59<br>crs: 278.22<br>rudder: 5.32<br>roll: -1.11<br>pitch: 0.38<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.873136,48.645429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:21:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:21:58<br>lat: 48.6457169<br>lon: 4.8712043<br>aws: 16.44<br>awa: -28.03<br>wda: 1.90<br>stw: 5.79<br>watmp: 14.42<br>crs: 277.76<br>rudder: -0.22<br>roll: -1.26<br>pitch: -0.05<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.871204,48.645717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:22:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:22:58<br>lat: 48.6460154<br>lon: 4.8690037<br>aws: 5.13<br>awa: -90.42<br>wda: 1.90<br>stw: 5.83<br>watmp: 14.66<br>crs: 276.21<br>rudder: -0.87<br>roll: -0.52<br>pitch: 0.01<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.869004,48.646015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:23:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:23:58<br>lat: 48.6463249<br>lon: 4.8667937<br>aws: 4.47<br>awa: -92.61<br>wda: 1.96<br>stw: 5.15<br>watmp: 14.87<br>crs: 277.33<br>rudder: 1.23<br>roll: -0.56<br>pitch: -0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.866794,48.646325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:24:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:24:58<br>lat: 48.6466449<br>lon: 4.8645909<br>aws: 6.43<br>awa: -174.85<br>wda: 1.97<br>stw: 5.15<br>watmp: 14.90<br>crs: 279.16<br>rudder: -2.40<br>roll: -1.35<br>pitch: 0.08<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.864591,48.646645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:25:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:25:58<br>lat: 48.6469737<br>lon: 4.8624867<br>aws: 1.42<br>awa: 17.26<br>wda: 2.02<br>stw: 5.15<br>watmp: 15.08<br>crs: 276.25<br>rudder: -1.09<br>roll: -1.13<br>pitch: 0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.862487,48.646974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:26:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:26:58<br>lat: 48.6472714<br>lon: 4.8604175<br>aws: 8.49<br>awa: -76.07<br>wda: 1.98<br>stw: 4.96<br>watmp: 15.08<br>crs: 277.71<br>rudder: -1.31<br>roll: -1.23<br>pitch: 0.15<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.860418,48.647271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:27:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:27:58<br>lat: 48.6475735<br>lon: 4.8583303<br>aws: 3.83<br>awa: -59.63<br>wda: 1.99<br>stw: 4.96<br>watmp: 15.06<br>crs: 276.96<br>rudder: -1.75<br>roll: -1.36<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.85833,48.647574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:28:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:28:58<br>lat: 48.6478632<br>lon: 4.8562493<br>aws: 4.68<br>awa: -28.97<br>wda: 1.74<br>stw: 4.80<br>watmp: 15.08<br>crs: 277.24<br>rudder: -1.75<br>roll: -1.55<br>pitch: 0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.856249,48.647863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:29:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:29:58<br>lat: 48.6481481<br>lon: 4.8544230<br>aws: 6.98<br>awa: -45.26<br>wda: 2.13<br>stw: 2.72<br>watmp: 15.08<br>crs: 280.71<br>rudder: -11.79<br>roll: -1.91<br>pitch: -0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.854423,48.648148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:30:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:30:58<br>lat: 48.6482623<br>lon: 4.8535840<br>aws: 4.90<br>awa: -38.18<br>wda: 3.76<br>stw: 1.03<br>watmp: 15.06<br>crs: 273.85<br>rudder: 0.61<br>roll: -1.58<br>pitch: 0.01<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.853584,48.648262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:31:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:31:58<br>lat: 48.6482937<br>lon: 4.8533677<br>aws: 1.40<br>awa: -61.99<br>wda: 5.51<br>stw: 0.00<br>watmp: 15.06<br>crs: 272.33<br>rudder: -0.22<br>roll: -0.74<br>pitch: -0.02<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.853368,48.648294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:32:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:32:58<br>lat: 48.6482953<br>lon: 4.8533629<br>aws: 3.42<br>awa: -82.45<br>wda: 5.39<br>stw: 0.00<br>watmp: 15.08<br>crs: 278.35<br>rudder: 0.00<br>roll: -0.80<br>pitch: -0.04<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.853363,48.648295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:33:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:33:58<br>lat: 48.6483024<br>lon: 4.8533659<br>aws: 2.94<br>awa: 2.56<br>wda: 4.70<br>stw: 0.00<br>watmp: 15.08<br>crs: 274.18<br>rudder: 0.00<br>roll: -1.07<br>pitch: 0.03<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.853366,48.648302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:34:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:34:58<br>lat: 48.6483037<br>lon: 4.8533747<br>aws: 2.84<br>awa: -74.15<br>wda: 3.60<br>stw: 0.00<br>watmp: 15.08<br>crs: 275.27<br>rudder: 0.00<br>roll: -2.12<br>pitch: -0.09<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.853375,48.648304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:35:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:35:58<br>lat: 48.6483062<br>lon: 4.8533707<br>aws: 3.30<br>awa: -57.06<br>wda: 2.67<br>stw: 0.00<br>watmp: 15.08<br>crs: 277.24<br>rudder: 0.00<br>roll: -2.15<br>pitch: -0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.853371,48.648306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:36:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:36:58<br>lat: 48.6483058<br>lon: 4.8533585<br>aws: 0.17<br>awa: -47.18<br>wda: 2.28<br>stw: 0.00<br>watmp: 15.12<br>crs: 272.89<br>rudder: 0.00<br>roll: -2.27<br>pitch: -0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.853358,48.648306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:37:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:37:58<br>lat: 48.6483017<br>lon: 4.8533633<br>aws: 0.00<br>awa: 55.30<br>wda: 2.21<br>stw: 0.00<br>watmp: 15.14<br>crs: 280.00<br>rudder: 2.45<br>roll: -1.09<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.853363,48.648302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:38:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:38:58<br>lat: 48.6485030<br>lon: 4.8521282<br>aws: 3.62<br>awa: -31.60<br>wda: 1.91<br>stw: 4.47<br>watmp: 15.01<br>crs: 278.69<br>rudder: 1.23<br>roll: -1.51<br>pitch: 0.31<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.852128,48.648503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:39:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:39:58<br>lat: 48.6487616<br>lon: 4.8501425<br>aws: 2.43<br>awa: -61.35<br>wda: 1.88<br>stw: 5.15<br>watmp: 15.08<br>crs: 276.10<br>rudder: 0.00<br>roll: -1.45<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.850142,48.648762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:40:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:40:58<br>lat: 48.6490497<br>lon: 4.8481488<br>aws: 4.41<br>awa: -90.91<br>wda: 1.59<br>stw: 5.15<br>watmp: 15.14<br>crs: 276.94<br>rudder: -0.44<br>roll: -1.51<br>pitch: 0.05<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.848149,48.64905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:41:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:41:58<br>lat: 48.6493347<br>lon: 4.8461874<br>aws: 2.59<br>awa: -44.76<br>wda: 1.61<br>stw: 5.33<br>watmp: 15.14<br>crs: 278.33<br>rudder: -1.09<br>roll: -1.71<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.846187,48.649335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:42:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:42:58<br>lat: 48.6496212<br>lon: 4.8442689<br>aws: 3.75<br>awa: -118.00<br>wda: 1.48<br>stw: 5.33<br>watmp: 15.20<br>crs: 275.80<br>rudder: 0.20<br>roll: -0.76<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.844269,48.649621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:43:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:43:58<br>lat: 48.6498882<br>lon: 4.8423248<br>aws: 3.52<br>awa: -40.83<br>wda: 1.58<br>stw: 4.80<br>watmp: 15.26<br>crs: 277.71<br>rudder: 0.41<br>roll: -1.00<br>pitch: 0.15<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.842325,48.649888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:44:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:44:58<br>lat: 48.6501861<br>lon: 4.8403573<br>aws: 6.53<br>awa: -4.67<br>wda: 1.50<br>stw: 5.50<br>watmp: 15.26<br>crs: 285.13<br>rudder: -6.33<br>roll: -1.56<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.840357,48.650186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:45:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:45:58<br>lat: 48.6504485<br>lon: 4.8384528<br>aws: 3.34<br>awa: 9.61<br>wda: 1.85<br>stw: 5.42<br>watmp: 15.32<br>crs: 276.60<br>rudder: 2.66<br>roll: -1.07<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.838453,48.650448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:46:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:46:58<br>lat: 48.6507299<br>lon: 4.8365573<br>aws: 2.97<br>awa: 59.47<br>wda: 1.87<br>stw: 5.00<br>watmp: 15.38<br>crs: 278.08<br>rudder: -0.87<br>roll: -1.87<br>pitch: 0.19<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.836557,48.65073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:47:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:47:58<br>lat: 48.6509926<br>lon: 4.8346630<br>aws: 4.41<br>awa: -15.70<br>wda: 1.69<br>stw: 5.42<br>watmp: 15.44<br>crs: 279.50<br>rudder: 2.04<br>roll: -1.25<br>pitch: 0.19<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.834663,48.650993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:48:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:48:58<br>lat: 48.6512595<br>lon: 4.8327896<br>aws: 6.63<br>awa: 6.30<br>wda: 1.70<br>stw: 4.51<br>watmp: 15.50<br>crs: 278.34<br>rudder: -3.27<br>roll: -1.52<br>pitch: 0.03<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.83279,48.65126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:49:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:49:58<br>lat: 48.6515282<br>lon: 4.8309505<br>aws: 4.26<br>awa: -49.99<br>wda: 1.76<br>stw: 4.47<br>watmp: 15.56<br>crs: 277.98<br>rudder: -5.02<br>roll: -2.18<br>pitch: -0.02<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.83095,48.651528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:50:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:50:58<br>lat: 48.6517813<br>lon: 4.8292427<br>aws: 3.38<br>awa: -92.55<br>wda: 1.88<br>stw: 4.61<br>watmp: 15.62<br>crs: 277.99<br>rudder: 2.86<br>roll: -1.43<br>pitch: 0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.829243,48.651781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:51:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:51:58<br>lat: 48.6520650<br>lon: 4.8273850<br>aws: 4.12<br>awa: -43.64<br>wda: 1.94<br>stw: 4.47<br>watmp: 15.62<br>crs: 277.35<br>rudder: 1.02<br>roll: -1.15<br>pitch: 0.21<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.827385,48.652065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:52:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:52:58<br>lat: 48.6523245<br>lon: 4.8254944<br>aws: 3.27<br>awa: -22.17<br>wda: 1.62<br>stw: 4.47<br>watmp: 15.67<br>crs: 277.48<br>rudder: -1.52<br>roll: -1.35<br>pitch: 0.16<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.825494,48.652324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:53:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:53:58<br>lat: 48.6525935<br>lon: 4.8236294<br>aws: 6.05<br>awa: -42.43<br>wda: 1.90<br>stw: 4.47<br>watmp: 15.68<br>crs: 277.02<br>rudder: 0.81<br>roll: -1.14<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.823629,48.652594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:54:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:54:58<br>lat: 48.6528225<br>lon: 4.8220586<br>aws: 5.62<br>awa: -41.21<br>wda: 2.00<br>stw: 2.06<br>watmp: 15.73<br>crs: 276.02<br>rudder: 2.86<br>roll: -1.52<br>pitch: -0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.822059,48.652822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:55:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:55:58<br>lat: 48.6529254<br>lon: 4.8213141<br>aws: 6.36<br>awa: -42.24<br>wda: 5.44<br>stw: 1.30<br>watmp: 15.74<br>crs: 275.80<br>rudder: 0.81<br>roll: -1.97<br>pitch: -0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.821314,48.652925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:56:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:56:58<br>lat: 48.6529300<br>lon: 4.8212854<br>aws: 5.91<br>awa: 31.91<br>wda: 5.45<br>stw: 0.00<br>watmp: 15.73<br>crs: 276.12<br>rudder: 0.61<br>roll: -1.32<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.821285,48.65293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:57:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:57:58<br>lat: 48.6529257<br>lon: 4.8212808<br>aws: 2.37<br>awa: -65.30<br>wda: 5.24<br>stw: 0.00<br>watmp: 15.78<br>crs: 276.48<br>rudder: 0.61<br>roll: -1.26<br>pitch: -0.08<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.821281,48.652926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:58:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:58:58<br>lat: 48.6529332<br>lon: 4.8212852<br>aws: 3.17<br>awa: -61.55<br>wda: 4.34<br>stw: 0.00<br>watmp: 15.79<br>crs: 275.68<br>rudder: 0.61<br>roll: -1.66<br>pitch: 0.10<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.821285,48.652933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 09:59:58</name>
+        <description><![CDATA[utc: 2021-05-25 09:59:58<br>lat: 48.6529324<br>lon: 4.8212904<br>aws: 4.33<br>awa: -24.57<br>wda: 3.19<br>stw: 0.00<br>watmp: 15.79<br>crs: 281.54<br>rudder: 0.61<br>roll: -2.23<br>pitch: -0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.82129,48.652932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:00:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:00:58<br>lat: 48.6529336<br>lon: 4.8212898<br>aws: 1.42<br>awa: 150.43<br>wda: 2.41<br>stw: 0.00<br>watmp: 15.81<br>crs: 272.95<br>rudder: 0.61<br>roll: -2.01<br>pitch: -0.05<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.82129,48.652934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:01:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:01:58<br>lat: 48.6529401<br>lon: 4.8212914<br>aws: 1.22<br>awa: 139.45<br>wda: 2.13<br>stw: 0.00<br>watmp: 15.85<br>crs: 273.78<br>rudder: 0.61<br>roll: -1.86<br>pitch: -0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.821291,48.65294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:02:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:02:58<br>lat: 48.6529703<br>lon: 4.8210895<br>aws: 4.88<br>awa: -7.85<br>wda: 2.08<br>stw: 3.05<br>watmp: 15.79<br>crs: 279.14<br>rudder: -3.05<br>roll: -1.47<br>pitch: 0.56<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.82109,48.65297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:03:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:03:58<br>lat: 48.6532360<br>lon: 4.8191702<br>aws: 3.69<br>awa: -45.56<br>wda: 1.73<br>stw: 5.50<br>watmp: 15.67<br>crs: 277.56<br>rudder: -2.18<br>roll: -1.54<br>pitch: 0.10<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.81917,48.653236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:04:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:04:58<br>lat: 48.6535273<br>lon: 4.8171298<br>aws: 3.62<br>awa: -6.41<br>wda: 1.81<br>stw: 5.81<br>watmp: 15.69<br>crs: 276.97<br>rudder: -0.22<br>roll: -1.00<br>pitch: 0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.81713,48.653527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:05:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:05:58<br>lat: 48.6538325<br>lon: 4.8151117<br>aws: 4.86<br>awa: -80.14<br>wda: 1.77<br>stw: 4.80<br>watmp: 15.73<br>crs: 279.34<br>rudder: 1.02<br>roll: -1.03<br>pitch: 0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.815112,48.653832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:06:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:06:58<br>lat: 48.6541107<br>lon: 4.8131100<br>aws: 6.14<br>awa: -31.75<br>wda: 1.88<br>stw: 5.68<br>watmp: 15.67<br>crs: 277.36<br>rudder: 0.41<br>roll: -0.91<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.81311,48.654111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:07:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:07:58<br>lat: 48.6543979<br>lon: 4.8111558<br>aws: 6.47<br>awa: -36.54<br>wda: 1.92<br>stw: 4.80<br>watmp: 15.67<br>crs: 276.81<br>rudder: -1.31<br>roll: -1.19<br>pitch: 0.19<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.811156,48.654398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:08:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:08:58<br>lat: 48.6546660<br>lon: 4.8092257<br>aws: 9.49<br>awa: -26.58<br>wda: 1.93<br>stw: 5.48<br>watmp: 15.59<br>crs: 277.32<br>rudder: -1.31<br>roll: -1.11<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.809226,48.654666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:09:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:09:58<br>lat: 48.6549523<br>lon: 4.8073509<br>aws: 7.50<br>awa: -39.70<br>wda: 1.80<br>stw: 4.47<br>watmp: 15.51<br>crs: 277.59<br>rudder: -1.09<br>roll: -1.46<br>pitch: 0.15<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.807351,48.654952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:10:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:10:58<br>lat: 48.6551237<br>lon: 4.8061351<br>aws: 10.69<br>awa: -24.25<br>wda: 1.87<br>stw: 0.84<br>watmp: 15.50<br>crs: 272.15<br>rudder: 14.52<br>roll: -1.07<br>pitch: -0.03<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.806135,48.655124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:11:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:11:58<br>lat: 48.6551572<br>lon: 4.8059054<br>aws: 7.79<br>awa: -17.83<br>wda: 1.84<br>stw: 0.00<br>watmp: 15.50<br>crs: 268.62<br>rudder: 5.52<br>roll: -1.01<br>pitch: 0.09<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.805905,48.655157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:12:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:12:58<br>lat: 48.6551923<br>lon: 4.8056457<br>aws: 11.94<br>awa: -28.08<br>wda: 1.81<br>stw: 1.03<br>watmp: 15.45<br>crs: 266.17<br>rudder: 0.41<br>roll: -1.02<br>pitch: 0.24<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.805646,48.655192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:13:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:13:58<br>lat: 48.6552690<br>lon: 4.8051302<br>aws: 6.05<br>awa: -32.72<br>wda: 1.69<br>stw: 0.00<br>watmp: 15.42<br>crs: 271.86<br>rudder: 0.00<br>roll: -1.15<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.80513,48.655269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:14:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:14:58<br>lat: 48.6553300<br>lon: 4.8047594<br>aws: 9.91<br>awa: -21.28<br>wda: 1.95<br>stw: 0.00<br>watmp: 15.38<br>crs: 275.64<br>rudder: 1.23<br>roll: -1.54<br>pitch: 0.18<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.804759,48.65533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:15:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:15:58<br>lat: 48.6554009<br>lon: 4.8043247<br>aws: 7.70<br>awa: -20.67<br>wda: 2.02<br>stw: 0.00<br>watmp: 15.32<br>crs: 268.45<br>rudder: -3.50<br>roll: -1.57<br>pitch: 0.07<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.804325,48.655401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:16:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:16:58<br>lat: 48.6554765<br>lon: 4.8036323<br>aws: 5.54<br>awa: -61.18<br>wda: 2.15<br>stw: 2.35<br>watmp: 15.26<br>crs: 278.43<br>rudder: -7.86<br>roll: -1.61<br>pitch: 0.19<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803632,48.655476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:17:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:17:58<br>lat: 48.6555753<br>lon: 4.8030571<br>aws: 8.94<br>awa: -59.76<br>wda: 5.70<br>stw: 0.00<br>watmp: 15.14<br>crs: 287.05<br>rudder: -3.05<br>roll: -1.86<br>pitch: -0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803057,48.655575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:18:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:18:58<br>lat: 48.6555655<br>lon: 4.8030365<br>aws: 7.43<br>awa: -56.73<br>wda: 5.69<br>stw: 0.00<br>watmp: 15.21<br>crs: 283.60<br>rudder: -3.05<br>roll: -1.08<br>pitch: -0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803036,48.655566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:19:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:19:58<br>lat: 48.6555671<br>lon: 4.8030268<br>aws: 5.07<br>awa: -25.82<br>wda: 5.63<br>stw: 0.00<br>watmp: 15.25<br>crs: 282.00<br>rudder: -3.05<br>roll: -1.21<br>pitch: -0.05<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803027,48.655567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:20:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:20:58<br>lat: 48.6555660<br>lon: 4.8030276<br>aws: 8.69<br>awa: 34.22<br>wda: 5.33<br>stw: 0.00<br>watmp: 15.21<br>crs: 278.96<br>rudder: -3.05<br>roll: -1.41<br>pitch: 0.03<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803028,48.655566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:21:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:21:58<br>lat: 48.6555655<br>lon: 4.8030181<br>aws: 4.16<br>awa: -12.40<br>wda: 4.48<br>stw: 0.00<br>watmp: 15.24<br>crs: 272.89<br>rudder: -2.84<br>roll: -1.84<br>pitch: -0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803018,48.655566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:22:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:22:58<br>lat: 48.6555611<br>lon: 4.8030179<br>aws: 3.69<br>awa: -40.01<br>wda: 3.50<br>stw: 0.00<br>watmp: 15.26<br>crs: 275.12<br>rudder: -2.84<br>roll: -2.07<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803018,48.655561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:23:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:23:58<br>lat: 48.6555582<br>lon: 4.8030131<br>aws: 1.07<br>awa: -36.58<br>wda: 2.88<br>stw: 0.00<br>watmp: 15.25<br>crs: 276.48<br>rudder: -2.84<br>roll: -2.17<br>pitch: 0.02<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803013,48.655558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:24:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:24:58<br>lat: 48.6555553<br>lon: 4.8030165<br>aws: 1.38<br>awa: 17.45<br>wda: 2.60<br>stw: 0.00<br>watmp: 15.26<br>crs: 274.41<br>rudder: -2.84<br>roll: -1.83<br>pitch: -0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.803016,48.655555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:25:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:25:58<br>lat: 48.6555800<br>lon: 4.8028755<br>aws: 2.04<br>awa: 3.44<br>wda: 2.49<br>stw: 1.98<br>watmp: 15.19<br>crs: 281.47<br>rudder: 0.61<br>roll: -1.07<br>pitch: 0.25<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.802876,48.65558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:26:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:26:58<br>lat: 48.6558200<br>lon: 4.8011992<br>aws: 8.49<br>awa: 11.78<br>wda: 1.93<br>stw: 5.29<br>watmp: 14.75<br>crs: 278.46<br>rudder: -1.97<br>roll: -1.36<br>pitch: 0.25<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.801199,48.65582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:27:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:27:58<br>lat: 48.6561293<br>lon: 4.7991011<br>aws: 3.11<br>awa: 11.84<br>wda: 1.84<br>stw: 5.79<br>watmp: 14.39<br>crs: 277.61<br>rudder: -0.87<br>roll: -1.28<br>pitch: 0.12<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.799101,48.656129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:28:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:28:58<br>lat: 48.6564372<br>lon: 4.7969771<br>aws: 6.55<br>awa: -5.23<br>wda: 1.78<br>stw: 5.83<br>watmp: 14.23<br>crs: 277.23<br>rudder: -1.75<br>roll: -1.45<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.796977,48.656437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:29:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:29:58<br>lat: 48.6567341<br>lon: 4.7949231<br>aws: 3.95<br>awa: 18.64<br>wda: 1.80<br>stw: 4.96<br>watmp: 14.22<br>crs: 278.66<br>rudder: 0.20<br>roll: -1.03<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.794923,48.656734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:30:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:30:58<br>lat: 48.6570361<br>lon: 4.7928804<br>aws: 2.37<br>awa: -8.34<br>wda: 1.84<br>stw: 4.80<br>watmp: 14.42<br>crs: 278.37<br>rudder: -3.50<br>roll: -1.31<br>pitch: 0.16<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.79288,48.657036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:31:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:31:58<br>lat: 48.6573359<br>lon: 4.7908091<br>aws: 1.28<br>awa: -96.59<br>wda: 1.88<br>stw: 4.80<br>watmp: 14.57<br>crs: 277.79<br>rudder: 0.41<br>roll: -1.34<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.790809,48.657336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:32:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:32:58<br>lat: 48.6576111<br>lon: 4.7888031<br>aws: 5.48<br>awa: -32.99<br>wda: 1.84<br>stw: 4.80<br>watmp: 14.42<br>crs: 277.08<br>rudder: -0.87<br>roll: -1.43<br>pitch: 0.21<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.788803,48.657611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:33:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:33:58<br>lat: 48.6579172<br>lon: 4.7868014<br>aws: 2.80<br>awa: -22.15<br>wda: 1.76<br>stw: 4.80<br>watmp: 14.42<br>crs: 277.67<br>rudder: -1.97<br>roll: -1.29<br>pitch: 0.21<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.786801,48.657917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:34:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:34:58<br>lat: 48.6582133<br>lon: 4.7847348<br>aws: 3.23<br>awa: -35.86<br>wda: 1.80<br>stw: 5.66<br>watmp: 14.54<br>crs: 277.90<br>rudder: 0.20<br>roll: -1.24<br>pitch: -0.01<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.784735,48.658213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:35:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:35:58<br>lat: 48.6585152<br>lon: 4.7826092<br>aws: 4.72<br>awa: -107.68<br>wda: 1.80<br>stw: 5.83<br>watmp: 14.54<br>crs: 277.12<br>rudder: -2.18<br>roll: -1.21<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.782609,48.658515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:36:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:36:58<br>lat: 48.6588105<br>lon: 4.7805158<br>aws: 4.57<br>awa: -53.34<br>wda: 1.80<br>stw: 5.83<br>watmp: 14.60<br>crs: 278.11<br>rudder: 0.81<br>roll: -1.39<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.780516,48.65881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:37:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:37:58<br>lat: 48.6591151<br>lon: 4.7784194<br>aws: 2.59<br>awa: -75.31<br>wda: 1.74<br>stw: 5.83<br>watmp: 14.72<br>crs: 278.44<br>rudder: 0.20<br>roll: -1.25<br>pitch: 0.19<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.778419,48.659115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:38:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:38:58<br>lat: 48.6594081<br>lon: 4.7763182<br>aws: 2.31<br>awa: -73.14<br>wda: 1.74<br>stw: 5.83<br>watmp: 14.79<br>crs: 277.24<br>rudder: -1.31<br>roll: -1.21<br>pitch: 0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.776318,48.659408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:39:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:39:58<br>lat: 48.6596906<br>lon: 4.7742287<br>aws: 2.33<br>awa: -58.14<br>wda: 1.78<br>stw: 5.83<br>watmp: 14.84<br>crs: 276.97<br>rudder: 0.81<br>roll: -1.25<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.774229,48.659691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:40:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:40:58<br>lat: 48.6599986<br>lon: 4.7721865<br>aws: 1.22<br>awa: -85.90<br>wda: 1.71<br>stw: 5.83<br>watmp: 14.90<br>crs: 276.42<br>rudder: 1.84<br>roll: -1.01<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.772186,48.659999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:41:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:41:58<br>lat: 48.6602886<br>lon: 4.7701113<br>aws: 7.29<br>awa: -42.05<br>wda: 1.81<br>stw: 5.83<br>watmp: 14.99<br>crs: 277.96<br>rudder: 0.61<br>roll: -1.21<br>pitch: 0.09<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.770111,48.660289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:42:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:42:58<br>lat: 48.6605931<br>lon: 4.7680145<br>aws: 2.20<br>awa: -160.73<br>wda: 1.82<br>stw: 5.83<br>watmp: 15.08<br>crs: 276.77<br>rudder: 0.81<br>roll: -1.43<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.768014,48.660593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:43:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:43:58<br>lat: 48.6608822<br>lon: 4.7658787<br>aws: 8.67<br>awa: -99.49<br>wda: 1.78<br>stw: 5.83<br>watmp: 15.16<br>crs: 278.12<br>rudder: -3.27<br>roll: -1.48<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.765879,48.660882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:44:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:44:58<br>lat: 48.6611757<br>lon: 4.7637785<br>aws: 4.20<br>awa: -105.58<br>wda: 1.89<br>stw: 5.15<br>watmp: 15.26<br>crs: 278.29<br>rudder: -2.62<br>roll: -1.40<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.763778,48.661176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:45:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:45:58<br>lat: 48.6614792<br>lon: 4.7616324<br>aws: 2.57<br>awa: -65.12<br>wda: 1.89<br>stw: 5.15<br>watmp: 15.27<br>crs: 277.75<br>rudder: -2.84<br>roll: -1.47<br>pitch: 0.11<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.761632,48.661479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:46:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:46:58<br>lat: 48.6617894<br>lon: 4.7594828<br>aws: 2.86<br>awa: -73.90<br>wda: 1.93<br>stw: 5.15<br>watmp: 15.39<br>crs: 277.96<br>rudder: -1.52<br>roll: -1.24<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.759483,48.661789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:47:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:47:58<br>lat: 48.6619938<br>lon: 4.7581634<br>aws: 2.94<br>awa: -110.84<br>wda: 3.10<br>stw: 1.71<br>watmp: 15.40<br>crs: 279.71<br>rudder: -1.09<br>roll: -1.52<br>pitch: -0.01<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.758163,48.661994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:48:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:48:58<br>lat: 48.6620536<br>lon: 4.7578120<br>aws: 2.25<br>awa: -93.12<br>wda: 5.40<br>stw: 0.00<br>watmp: 15.26<br>crs: 282.94<br>rudder: -1.75<br>roll: -1.56<br>pitch: -0.09<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757812,48.662054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:49:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:49:58<br>lat: 48.6620433<br>lon: 4.7578325<br>aws: 4.49<br>awa: -68.73<br>wda: 5.44<br>stw: 0.00<br>watmp: 15.26<br>crs: 279.88<br>rudder: -1.52<br>roll: -2.39<br>pitch: 0.06<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757832,48.662043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:50:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:50:58<br>lat: 48.6620415<br>lon: 4.7578468<br>aws: 1.28<br>awa: -76.63<br>wda: 5.42<br>stw: 0.00<br>watmp: 15.31<br>crs: 282.83<br>rudder: -1.75<br>roll: -1.49<br>pitch: -0.02<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757847,48.662042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:51:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:51:58<br>lat: 48.6620408<br>lon: 4.7578510<br>aws: 1.52<br>awa: -88.02<br>wda: 4.97<br>stw: 0.00<br>watmp: 15.32<br>crs: 280.99<br>rudder: -1.75<br>roll: -1.42<br>pitch: -0.15<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757851,48.662041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:52:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:52:58<br>lat: 48.6620368<br>lon: 4.7578448<br>aws: 1.32<br>awa: -95.75<br>wda: 4.02<br>stw: 0.00<br>watmp: 15.27<br>crs: 273.50<br>rudder: -1.75<br>roll: -2.06<br>pitch: -0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757845,48.662037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:53:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:53:58<br>lat: 48.6620298<br>lon: 4.7578586<br>aws: 1.22<br>awa: -144.02<br>wda: 3.06<br>stw: 0.00<br>watmp: 15.26<br>crs: 277.06<br>rudder: -1.75<br>roll: -2.20<br>pitch: -0.26<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757859,48.66203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:54:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:54:58<br>lat: 48.6620315<br>lon: 4.7578539<br>aws: 1.67<br>awa: -110.27<br>wda: 2.44<br>stw: 0.00<br>watmp: 15.27<br>crs: 276.05<br>rudder: -1.75<br>roll: -2.01<br>pitch: -0.09<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757854,48.662032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:55:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:55:58<br>lat: 48.6620330<br>lon: 4.7578507<br>aws: 0.00<br>awa: -151.15<br>wda: 2.28<br>stw: 0.00<br>watmp: 15.32<br>crs: 273.54<br>rudder: -1.75<br>roll: -1.87<br>pitch: -0.10<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757851,48.662033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:56:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:56:58<br>lat: 48.6621120<br>lon: 4.7572687<br>aws: 1.09<br>awa: -17.65<br>wda: 1.73<br>stw: 3.95<br>watmp: 15.16<br>crs: 279.75<br>rudder: -2.62<br>roll: -1.54<br>pitch: 0.37<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.757269,48.662112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:57:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:57:58<br>lat: 48.6624258<br>lon: 4.7551809<br>aws: 3.29<br>awa: -54.30<br>wda: 1.89<br>stw: 6.08<br>watmp: 15.31<br>crs: 278.43<br>rudder: -0.44<br>roll: -1.70<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.755181,48.662426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:58:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:58:58<br>lat: 48.6627233<br>lon: 4.7531010<br>aws: 4.82<br>awa: -28.96<br>wda: 1.44<br>stw: 4.86<br>watmp: 15.26<br>crs: 277.64<br>rudder: -0.87<br>roll: -1.20<br>pitch: 0.20<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.753101,48.662723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 10:59:58</name>
+        <description><![CDATA[utc: 2021-05-25 10:59:58<br>lat: 48.6629950<br>lon: 4.7511344<br>aws: 9.25<br>awa: -62.48<br>wda: 1.45<br>stw: 4.51<br>watmp: 15.26<br>crs: 279.05<br>rudder: -2.40<br>roll: -1.12<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.751134,48.662995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:00:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:00:58<br>lat: 48.6632859<br>lon: 4.7491273<br>aws: 3.71<br>awa: -72.36<br>wda: 1.39<br>stw: 4.61<br>watmp: 15.32<br>crs: 279.03<br>rudder: -0.87<br>roll: -1.27<br>pitch: 0.13<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.749127,48.663286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:01:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:01:58<br>lat: 48.6635754<br>lon: 4.7471004<br>aws: 10.83<br>awa: -72.04<br>wda: 1.63<br>stw: 4.61<br>watmp: 15.30<br>crs: 278.02<br>rudder: -0.65<br>roll: -1.00<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.7471,48.663575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:02:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:02:58<br>lat: 48.6638630<br>lon: 4.7450784<br>aws: 9.43<br>awa: -76.23<br>wda: 1.91<br>stw: 4.61<br>watmp: 15.26<br>crs: 277.79<br>rudder: -1.31<br>roll: -1.11<br>pitch: 0.12<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.745078,48.663863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:03:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:03:58<br>lat: 48.6641367<br>lon: 4.7430779<br>aws: 4.76<br>awa: -42.62<br>wda: 1.75<br>stw: 4.61<br>watmp: 15.32<br>crs: 279.76<br>rudder: 2.45<br>roll: -1.16<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.743078,48.664137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:04:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:04:58<br>lat: 48.6644347<br>lon: 4.7411294<br>aws: 9.29<br>awa: -78.62<br>wda: 1.95<br>stw: 5.42<br>watmp: 15.32<br>crs: 278.42<br>rudder: -1.09<br>roll: -1.38<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.741129,48.664435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:05:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:05:58<br>lat: 48.6647252<br>lon: 4.7391745<br>aws: 4.35<br>awa: -76.38<br>wda: 1.99<br>stw: 5.50<br>watmp: 15.40<br>crs: 279.53<br>rudder: -1.52<br>roll: -1.33<br>pitch: 0.14<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.739174,48.664725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:06:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:06:58<br>lat: 48.6651440<br>lon: 4.7372753<br>aws: 4.92<br>awa: -90.48<br>wda: 1.91<br>stw: 5.68<br>watmp: 15.33<br>crs: 289.11<br>rudder: -1.52<br>roll: -1.46<br>pitch: 0.17<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.737275,48.665144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:07:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:07:58<br>lat: 48.6657162<br>lon: 4.7354609<br>aws: 8.24<br>awa: -47.07<br>wda: 1.99<br>stw: 4.28<br>watmp: 15.32<br>crs: 291.07<br>rudder: -0.44<br>roll: -1.20<br>pitch: 0.00<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.735461,48.665716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:08:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:08:58<br>lat: 48.6661260<br>lon: 4.7342103<br>aws: 6.71<br>awa: -67.30<br>wda: 2.21<br>stw: 2.74<br>watmp: 15.32<br>crs: 289.60<br>rudder: 2.04<br>roll: -1.04<br>pitch: -0.09<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.73421,48.666126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:09:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:09:58<br>lat: 48.6662977<br>lon: 4.7335291<br>aws: 1.77<br>awa: -91.86<br>wda: 1.25<br>stw: 1.57<br>watmp: 15.28<br>crs: 297.63<br>rudder: -13.10<br>roll: -1.46<br>pitch: -0.18<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.733529,48.666298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:10:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:10:58<br>lat: 48.6662073<br>lon: 4.7337183<br>aws: 1.90<br>awa: -178.65<br>wda: 1.15<br>stw: 0.00<br>watmp: 15.32<br>crs: 279.85<br>rudder: -30.36<br>roll: -1.38<br>pitch: -0.03<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.733718,48.666207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:11:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:11:58<br>lat: 48.6662014<br>lon: 4.7337366<br>aws: 2.04<br>awa: -134.87<br>wda: 0.96<br>stw: 0.00<br>watmp: 15.35<br>crs: 282.86<br>rudder: -30.36<br>roll: -1.28<br>pitch: -0.05<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.733737,48.666201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:12:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:12:58<br>lat: 48.6661991<br>lon: 4.7337253<br>aws: 3.15<br>awa: -145.63<br>wda: 0.84<br>stw: 0.00<br>watmp: 15.39<br>crs: 279.45<br>rudder: -30.36<br>roll: -1.46<br>pitch: -0.19<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.733725,48.666199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2021-05-25 11:13:58</name>
+        <description><![CDATA[utc: 2021-05-25 11:13:58<br>lat: 48.6662015<br>lon: 4.7337220<br>aws: 1.13<br>awa: -120.92<br>wda: 0.74<br>stw: 0.00<br>watmp: 15.44<br>crs: 280.03<br>rudder: 0.20<br>roll: -1.87<br>pitch: -0.10<br>yaw: 0<br>  #icon-1739-0288D1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.733722,48.666202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
