@@ -45,13 +45,13 @@ foreach($data as $i => $t) {
     printf("</coordinates>\n");
     printf("</LineString>");
     printf("</Placemark>\n");
-    printf("</Folder>\n");
+//    printf("</Folder>\n");
 // end creating path layer
 
 // create layer for all track points
-    printf("<Folder>\n");
+//    printf("<Folder>\n");
  // layer name for all track points 
-    printf("<name>Points</name>\n");
+//    printf("<name>Points</name>\n");
 
 foreach($data as $i => $t) {
     printf("<Placemark>\n");

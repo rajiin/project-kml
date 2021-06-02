@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?><kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2' xmlns:atom='http://www.w3.org/2005/Atom'>
+<Document>
+<name>Sailserver Project Name</name><description>Sailserver Project Desciption</description><LineStyle id='blueLine-01'><color>ffd18802</color><colorMode>normal</colorMode><width>5</width></LineStyle><Folder>
+<name>Sailserver Track </name>
+<Placemark>
+<name>Track</name>
+<styleURL>#blueLine-01</styleURL><LineString><tessellate>1</tessellate><coordinates>
+12.3735832,45.4358763,0
+12.3730444,45.4359426,0
+12.3724911,45.4354999,0
+12.3721014,45.4349284,0
+12.3710081,45.4340634,0
+12.3703595,45.4338221,0
+12.3694477,45.4334394,0
+12.3690484,45.4332192,0
+12.3684528,45.4330934,0
+12.3683971,45.432966,0
+12.3685525,45.4329597,0
+12.3685786,45.4330305,0
+</coordinates>
+</LineString></Placemark>
+<Placemark>
+<name>2019-05-30 04:52:05</name><description><![CDATA[<b>utc:</b> 2019-05-30 04:52:05<br><b>lat:</b> 45.4358763<br><b>lon:</b> 12.3735832<br><b>aws:</b> 108<br><b>awa:</b> -12217<br><b>wda:</b> 332<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -16877<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> -2792<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3735832,45.4358763,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 04:52:53</name><description><![CDATA[<b>utc:</b> 2019-05-30 04:52:53<br><b>lat:</b> 45.4359426<br><b>lon:</b> 12.3730444<br><b>aws:</b> 210<br><b>awa:</b> -3141<br><b>wda:</b> 362<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -28797<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> -698<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3730444,45.4359426,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 04:53:43</name><description><![CDATA[<b>utc:</b> 2019-05-30 04:53:43<br><b>lat:</b> 45.4354999<br><b>lon:</b> 12.3724911<br><b>aws:</b> 216<br><b>awa:</b> 1308<br><b>wda:</b> 347<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -30630<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> 349<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3724911,45.4354999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 04:54:31</name><description><![CDATA[<b>utc:</b> 2019-05-30 04:54:31<br><b>lat:</b> 45.4349284<br><b>lon:</b> 12.3721014<br><b>aws:</b> 216<br><b>awa:</b> 261<br><b>wda:</b> 387<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -27157<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> 349<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3721014,45.4349284,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 04:56:07</name><description><![CDATA[<b>utc:</b> 2019-05-30 04:56:07<br><b>lat:</b> 45.4340634<br><b>lon:</b> 12.3710081<br><b>aws:</b> 180<br><b>awa:</b> -3577<br><b>wda:</b> 374<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -24521<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> 0<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3710081,45.4340634,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 04:56:55</name><description><![CDATA[<b>utc:</b> 2019-05-30 04:56:55<br><b>lat:</b> 45.4338221<br><b>lon:</b> 12.3703595<br><b>aws:</b> 190<br><b>awa:</b> -3752<br><b>wda:</b> 338<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -24225<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> 174<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3703595,45.4338221,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 04:58:05</name><description><![CDATA[<b>utc:</b> 2019-05-30 04:58:05<br><b>lat:</b> 45.4334394<br><b>lon:</b> 12.3694477<br><b>aws:</b> 144<br><b>awa:</b> -4014<br><b>wda:</b> 408<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -23788<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> -174<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3694477,45.4334394,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 04:58:55</name><description><![CDATA[<b>utc:</b> 2019-05-30 04:58:55<br><b>lat:</b> 45.4332192<br><b>lon:</b> 12.3690484<br><b>aws:</b> 108<br><b>awa:</b> -5410<br><b>wda:</b> 423<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -23125<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> -872<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3690484,45.4332192,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 05:00:05</name><description><![CDATA[<b>utc:</b> 2019-05-30 05:00:05<br><b>lat:</b> 45.4330934<br><b>lon:</b> 12.3684528<br><b>aws:</b> 118<br><b>awa:</b> -5584<br><b>wda:</b> 387<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> -20978<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> -3141<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3684528,45.4330934,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 05:00:55</name><description><![CDATA[<b>utc:</b> 2019-05-30 05:00:55<br><b>lat:</b> 45.432966<br><b>lon:</b> 12.3683971<br><b>aws:</b> 41<br><b>awa:</b> 23998<br><b>wda:</b> 268<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> 13526<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> -7155<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3683971,45.432966,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 05:02:06</name><description><![CDATA[<b>utc:</b> 2019-05-30 05:02:06<br><b>lat:</b> 45.4329597<br><b>lon:</b> 12.3685525<br><b>aws:</b> 46<br><b>awa:</b> 32026<br><b>wda:</b> 265<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> 9093<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> 0<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3685525,45.4329597,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>2019-05-30 05:02:54</name><description><![CDATA[<b>utc:</b> 2019-05-30 05:02:54<br><b>lat:</b> 45.4330305<br><b>lon:</b> 12.3685786<br><b>aws:</b> 46<br><b>awa:</b> 25743<br><b>wda:</b> 249<br><b>stw:</b> 32767<br><b>watmp:</b> 0<br><b>crs:</b> 10070<br><b>rudder:</b> 32767<br><b>roll:</b> 32767<br><b>pitch:</b> 0<br><b>yaw:</b> 0<br>]]></description>
+<Point>
+<coordinates>12.3685786,45.4330305,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
