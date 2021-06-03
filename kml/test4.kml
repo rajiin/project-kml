@@ -1,14 +1,14 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 <name>Sailserver Project Name</name>
-<description>Sailserver Project Desciption</description>
+<description/>
 <LineStyle id="blueLine-01">
 <color>ffd18802</color>
 <colorMode>normal</colorMode>
 <width>5</width>
 </LineStyle>
 <Folder>
-<name>Sailserver Track </name>
+<name>Sailserver Track Array</name>
 <Placemark>
 <name>Track</name>
 <styleURL>#blueLine-01</styleURL>
